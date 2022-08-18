@@ -3,7 +3,7 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 2.8.8</title>
+            <title>Version 2.8.9</title>
             <description>Minor updates and improvements.<br />
                         Minor updates and improvements.<br />
                         Minor updates and improvements.<br />
@@ -27,7 +27,7 @@
                         Minor updates and improvements.<br />
             </description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.zonarsystems.coach" sparkle:version="2.8.8" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.zonarsystems.coach" sparkle:version="2.8.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
